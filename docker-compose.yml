@@ -10,7 +10,7 @@ services:
       EULA: "TRUE"
       TYPE: "FORGE"
       VERSION: 1.16.5
-      MODS_FILE: /extras/mods.txt
+      MODS_FILE: /mods/mods.txt
       REMOVE_OLD_MODS: "true"
     tty: true
     stdin_open: true
